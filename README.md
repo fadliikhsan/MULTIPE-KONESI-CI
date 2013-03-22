@@ -1,9 +1,10 @@
 MULTIPE-KONESI-CI
 =================
 
-Konfigurasi multiple koneksi database Mysql Codeigniter 2.1.3. Pada kasus ini saya menggunakan dua database Mysql
+<font align="justify">Konfigurasi multiple koneksi database Mysql Codeigniter 2.1.3. Pada kasus ini saya menggunakan dua database Mysql
 yang digunakan secara bersamaan dalam satu aplikasi. Untuk dump db nya sudah saya lampirkan juga. Untuk lebih lengkapnya
-bisa mengunjungi <br /> [Blog Saya](http://www.dunia14inch.wordpress.com)
+bisa mengunjungi</font>
+<br /> [Blog Saya](http://www.dunia14inch.wordpress.com)
 
 ![asdsad](http://bolehjadi2.files.wordpress.com/2012/07/codeigniterwallpaper.jpg)
 <table>
